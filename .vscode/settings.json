@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/larry.laski/.brew/bin/python3",
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true
+}
